@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+pandas
+docx2txt
+PyPDF2
+xlrd
+openpyxl
+gunicorn==20.1.0
