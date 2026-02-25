@@ -6,6 +6,7 @@ import pandas as pd
 import docx2txt
 from PyPDF2 import PdfReader
 
+#kalkslas
 app = Flask(__name__)
 
 UPLOAD_FOLDER = 'uploads'
